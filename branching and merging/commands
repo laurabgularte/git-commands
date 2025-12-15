@@ -1,0 +1,5 @@
+git branch                     list all of the local branches
+git branch [branch-name]       to create a new one
+git checkout [branch-name]     or the newer git switch [branch-name]                switch to a different branch
+git merge [branch-name]        integrate changes to your current active branch
+
