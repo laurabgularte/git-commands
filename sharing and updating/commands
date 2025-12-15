@@ -1,0 +1,6 @@
+git remote add [alias] [url]      add a new remote repository connection
+git fetch [remote]                downloads branches and all associated commits and files from the remote repository(doesnt merge them into the current branch)
+git pull                         fetches changes from a remote repository and then immediately merges them into your current branch.
+git push [remote] [branch]       update the local commits to the remote repository
+
+
