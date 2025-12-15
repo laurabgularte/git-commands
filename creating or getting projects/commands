@@ -1,0 +1,9 @@
+git init
+git clone [url]
+
+git config: 
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+git config --global --edit  (open the config file for manual editing)
+
+  
