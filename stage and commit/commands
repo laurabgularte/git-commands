@@ -1,0 +1,4 @@
+git status
+git add [file]
+git commit -m "message"
+git diff (git diff --staged to see changes that have been staged)
