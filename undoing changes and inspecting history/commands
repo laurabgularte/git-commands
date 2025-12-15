@@ -1,0 +1,5 @@
+git log                           shows commit history
+git reset [file]                  unstages a file or discards uncommitted local changes                
+git restore [file]                discards uncommitted local changes to a specific file
+git revert [commit]               creates a new commit that undoes the changes made by a previous commit
+git stash                         saves changes (temporarily) that you dont want to commit immediately 
